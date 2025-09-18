@@ -1,3 +1,5 @@
+É possível utilizar a classe abstrata FiguraGeometrica como tipo de referência em um array?, explique.
+
 Lidando com o tipo da classe abstrata FiguraGeometrica como uma interface de array,
 embora não seja possivel criar uma instância direta de uma classe abstrata usando o operador new, 
 é possível criar instâncias de classes derivadas e usá-las onde o tipo abstrato é esperado.
